@@ -1,12 +1,12 @@
-# PottsModelPhaseTransition
+# Phase Transition
 
 
-# 2D 5 State Potts Model 
+## 2D 5 State Potts Model 
 
 ---
 ![preview][1]
 
-# 2D Ising Model 
+## 2D Ising Model 
 
 ---
 ![preview][2]
